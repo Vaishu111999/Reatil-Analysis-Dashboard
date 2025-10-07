@@ -36,11 +36,6 @@ Special emphasis is placed on leveraging festival seasons for targeted offers an
 5. **Warehouse Structure for Stock Management**
 6. **Correlation Between Product Reviews and Ratings by Category**
 
-  ## 📈 Key Metrics
-- Average Rating: 3.0
-- Total Reviews: 248K
-- Total Returns: 251K
-- Stock Availability: 248K
   
 <img width="1527" height="762" alt="image" src="https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212" />
 
