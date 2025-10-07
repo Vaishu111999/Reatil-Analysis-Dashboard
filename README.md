@@ -1,4 +1,3 @@
-<img width="336" height="326" alt="image" src="https://github.com/user-attachments/assets/63afbae6-fd04-49b7-bf24-8e3836a9c89a" />
 
 # 🛍️ Retail Warehouse Stock Management & Category Strategy Dashboard
 
@@ -35,5 +34,6 @@ Special emphasis is placed on leveraging festival seasons for targeted offers an
 - Inventory Turnover Ratio
 - Festival Campaign Performance
 - Return Rate vs. Profit Margin Analysis
+<img width="1527" height="762" alt="image" src="https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212" />
 
 
