@@ -1,3 +1,4 @@
+<img width="336" height="326" alt="image" src="https://github.com/user-attachments/assets/63afbae6-fd04-49b7-bf24-8e3836a9c89a" />
 
 # 🛍️ Retail Warehouse Stock Management & Category Strategy Dashboard
 
