@@ -36,6 +36,10 @@ Special emphasis is placed on leveraging festival seasons for targeted offers an
 5. **Warehouse Structure for Stock Management**
 6. **Correlation Between Product Reviews and Ratings by Category**
 
+   
+## 🎥 Project Demo
+
+[▶️ Watch Video](."C:\Users\Swapnil\Videos\Screen Recordings\Screen Recording 2026-03-31 112956/demo.mp4)
   
 <img width="1527" height="762" alt="image" src="https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212" />
 
