@@ -38,7 +38,7 @@ Special emphasis is placed on leveraging festival seasons for targeted offers an
 
   ## 🎥 Project Demo
 
-[![Watch Demo](https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212)](./demo.mp4
+[![Watch Demo](https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212)](./demo.mp4)
   
 <img width="1527" height="762" alt="image" src="https://github.com/user-attachments/assets/19edf6d3-e95b-4d6d-a499-e25ec2830212" />
 
